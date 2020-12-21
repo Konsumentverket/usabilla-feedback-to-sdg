@@ -1,0 +1,15 @@
+{
+  "name": "usabillatosdg",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "moment": "^2.29.1",
+    "usabilla-api": "^1.2.3"
+  },
+  "devDependencies": {}
+}
